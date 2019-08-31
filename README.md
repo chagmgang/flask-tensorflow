@@ -2,6 +2,7 @@
 
 * Dataset: MNIST dataset from *Keras*
 * Training Method : Tensorflow Estimator
+* One of the MNIST datasets is randomly selected to show the predicted result and label.
 
 ## File explaination
 
